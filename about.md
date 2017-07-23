@@ -2,7 +2,7 @@
 layout: page
 title: Sobre mim
 description: "Meu nome é Alexsandro Silva Alves, sou Front-end Developer"
-permalink: /about
+permalink: /about/
 ---
 
 Meu nome é Alexsandro Silva Alves, 26 anos, nasci em Feira de Santana/BA e atualmente sou Frontend Developer na [eCGlobal](http://ecglobalsolutions.com), trabalho como desenvolvedor software desde 2010, graduando em Sistemas para Internet na UNIFACS.

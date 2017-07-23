@@ -9,7 +9,6 @@ comments: true
 > #### Nesse caminho, apenas o primeiro passo importa
 > São João Batista de Viana
 
-
 Fala pessoal, tudo bem? Esse é o meu primeiro post no blog. Então... Seja bem vindo!
 
 Meu nome é Alexsandro Silva Alves, sou programador e atuo desde 2010 como desenvolvedor de software. [Saiba um pouco sobre o maluco por trás desse blog](/about).

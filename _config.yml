@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alexsandro Silva Alves
-email: your-email@example.com
+email: alexsando.s.alves@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Front-end Developer.
+  Alexsandro Silva Alves, Front-end Developer e Game developer nas horas vagas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexsandro-sa.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -37,9 +37,10 @@ google_analytics: UA-56706328-1
 
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 theme: minima
 
+# Plugins
 plugins:
   - jekyll-feed
 
