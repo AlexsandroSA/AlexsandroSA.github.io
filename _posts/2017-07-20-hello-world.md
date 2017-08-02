@@ -6,18 +6,17 @@ date:   2017-07-20 22:41:20 -0300
 comments: true
 ---
 
+
 > #### Nesse caminho, apenas o primeiro passo importa
 > São João Batista de Viana
 
-Fala pessoal, tudo bem? Esse é o meu primeiro post no blog. Então... Seja bem vindo!
+Oi, tudo bem? Esse é o meu primeiro post no blog. Então... Seja bem-vindo!
 
-Meu nome é Alexsandro Silva Alves, sou programador e atuo desde 2010 como desenvolvedor de software. [Saiba um pouco sobre o maluco por trás desse blog](/about).
+Meu nome é Alexsandro Silva Alves atuo desde 2010 como desenvolvedor de software. [Saiba um pouco sobre o maluco por trás desse blog](/about).
 
-Aqui eu vou falar das coisas que eu mais amo, programação, games, tecnologia e muito mais.
+Faz algum tempo, na verdade alguns anos, que tenho vontade de escrever sobre coisas que me deixam feliz: programação, games, tecnologia e "otras cositas más", então aqui estamos.
 
-Fique a vontade para dar sugestões, pedidos e críticas nos comentários ou no [Twitter](https://twitter.com/{{site.twitter_username}}), [Linkedin](https://www.linkedin.com/in/{{site.linkedin_username}}/) ou [Instagram](https://www.instagram.com/{{site.instagram_username}}/).
-
-Obrigado e volte sempre :)
+Fique a vontade para dar sugestões, pedidos e críticas nos comentários ou envia uma mensagem [Twitter](https://twitter.com/{{site.twitter_username}}), me adiciona no [Linkedin](https://www.linkedin.com/in/{{site.linkedin_username}}/) e/ou me segue no [Github](https://github.com/{{site.github_username}}/).
 
 #### Notes
 Sim eu sei que o primeiro post "Hello World" não é nada original, mas, não me culpe por usar um bom pattern, sou programador(culpado!).
