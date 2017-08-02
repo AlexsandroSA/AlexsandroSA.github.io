@@ -2,11 +2,15 @@
 layout: default
 title: "Alexsandro Silva Alves | Front-End Developer"
 ---
+
 <div class="home">
   {{ content }}
   {% if site.posts.size == 0 %}
     <h2>No post found</h2>
   {% else %}
+
+  {% include intro.html %}
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>

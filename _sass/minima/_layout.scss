@@ -2,9 +2,10 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  height: 60px;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  //min-height: $spacing-unit * 1.865;
+  background: #fff;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -42,17 +43,11 @@
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
-  .nav-trigger {
-      display: none;
-  }
-
-  .menu-icon {
-    display: none;
-  }
-
   .page-link {
-    color: $text-color;
+    //color: $text-color;
+    color: #000;
     line-height: $base-line-height;
+    text-transform: uppercase;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -221,8 +216,20 @@
 /**
  * Posts
  */
+.post {
+
+  .post-meta {
+    text-transform: uppercase;
+  }
+
+  .post-title {
+    margin-bottom: 10px;
+  }
+
+}
 .post-header {
   margin-bottom: $spacing-unit;
+  text-align: center;
 }
 
 .post-title {
@@ -230,6 +237,14 @@
   letter-spacing: -1px;
   line-height: 1;
   font-weight: 300;
+
+  &--large {
+    font-size: 30px;
+  }
+
+  &--small {
+    font-size: 18px;
+  }
 
   a {
     color: #333;
@@ -273,6 +288,24 @@
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
+    }
+  }
+}
+
+
+
+
+.hello {
+  margin: 50px 0;
+
+  a {
+    border-bottom: 2px solid rgba(0,0,0,.4);
+    color: #3b3b3b;
+    text-decoration: none;
+    transition: border .3s ease-in-out;
+
+    &:hover {
+      border-bottom: 2px solid rgba(0,0,0,.1);
     }
   }
 }

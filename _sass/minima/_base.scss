@@ -67,6 +67,14 @@ ul, ol, dl, figure,
 }
 
 
+/**
+ * Paragraph
+ */
+p {
+  color: #7e7e7e;
+  // font-size: 17px;
+  // line-height: 30px;
+}
 
 /**
  * Images
@@ -145,16 +153,36 @@ a {
 /**
  * Blockquotes
  */
-blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
 
-  > :last-child {
-    margin-bottom: 0;
+blockquote{
+  position: relative;
+  margin:40px auto;
+  padding:0 20px;
+  display:block;
+  font-style:italic;
+  opacity:.8;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 5px;
+  }
+
+  &::before{
+    content: "\201C"; /*Unicode for Left Double Quote*/
+
+    /*Font*/
+    font-family: Georgia, serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #999;
+
+    /*Positioning*/
+    position: absolute;
+    left: -10px;
+    top:-40px;
+  }
+
+  &::after{
+    content: "";
   }
 }
 
