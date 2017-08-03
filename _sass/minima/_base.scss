@@ -71,9 +71,7 @@ ul, ol, dl, figure,
  * Paragraph
  */
 p {
-  color: #7e7e7e;
-  // font-size: 17px;
-  // line-height: 30px;
+  color: $text-color;
 }
 
 /**
@@ -245,28 +243,4 @@ pre {
   content: "";
   display: table;
   clear: both;
-}
-
-
-
-/**
- * Icons
- */
-.icon > svg {
-  display: inline-block;
-  vertical-align: middle;
-
-  path {
-    fill: $grey-color;
-  }
-}
-
-.social-media-list {
-  .icon {
-    padding-right: 5px;
-  }
-
-  li + li {
-    padding-top: 5px;
-  }
 }
