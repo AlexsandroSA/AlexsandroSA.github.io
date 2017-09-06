@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Hello World: conheça meu blog!"
 description: "Hello World, meu nome é Alexsandro Silva Alves. Seja bem vindo ao meu blog!"
 date:   2017-07-20 22:41:20 -0300
 comments: true
