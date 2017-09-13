@@ -27,4 +27,4 @@ Por último é não menos importante.
 
 Gostaria de deixar aqui meu agradecimentos todos que me ajudaram de alguma forma.
 
-Muito obrigado mesmo a todos de coração! Seus lindos :*
+Muito obrigado mesmo a todos de coração! Seus lindos :kissing_heart:
