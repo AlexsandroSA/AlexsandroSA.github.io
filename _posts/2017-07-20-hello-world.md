@@ -1,21 +1,32 @@
 ---
 layout: post
 title:  "Hello World: conheça meu blog!"
-description: "Hello World, meu nome é Alexsandro Silva Alves. Seja bem vindo ao meu blog!"
+description: "Hello World, meu nome é Alexsandro Silva Alves"
 date:   2017-07-20 22:41:20 -0300
 comments: true
 ---
 
-> #### Nesse caminho, apenas o primeiro passo importa
-> São João Batista de Viana
+> #### Feliz aquele que transfere o que sabe e aprende o que ensina.
+> [Cora Coralina](https://pt.wikipedia.org/wiki/Cora_Coralina)
 
-Oi, tudo bem? Esse é o meu primeiro post no blog. Então... Seja bem-vindo!
+### Primeiramente, seja bem-vindo!
 
-Meu nome é Alexsandro Silva Alves atuo desde 2010 como desenvolvedor de software. [Saiba um pouco sobre o maluco por trás desse blog](/about/).
+Olá, tudo bem? Meu nome é [Alexsandro Silva Alves](/about/) sou Programador e já faz algum tempo, na verdade alguns anos, que tenho vontade de escrever sobre algumas coisas como:
 
-Faz algum tempo, na verdade alguns anos, que tenho vontade de escrever sobre coisas que me deixam feliz: programação, games, tecnologia e "otras cositas más", então aqui estamos.
+ - Programação
+ - Games
+ - Tecnologia e “otras cositas más”
 
-Fique a vontade para dar sugestões, pedidos e críticas nos comentários ou envia uma mensagem [Twitter](https://twitter.com/{{site.twitter_username}}), me adiciona no [Linkedin](https://www.linkedin.com/in/{{site.linkedin_username}}/) e/ou me segue no [Github](https://github.com/{{site.github_username}}/).
+Se você tem interesse, quer aprender ou melhorar alguns desses temas citados.
 
-#### Notes
-Sim eu sei que o primeiro post "Hello World" não é nada original, mas, não me culpe por usar um bom pattern, sou programador(culpado!).
+...Então você está no lugar certo.
+
+E ai, vamos aprender juntos?
+
+### Agradecimentos
+
+Por último é não menos importante. 
+
+Gostaria de deixar aqui meu agradecimentos todos que me ajudaram de alguma forma.
+
+Muito obrigado mesmo a todos de coração! Seus lindos :*
