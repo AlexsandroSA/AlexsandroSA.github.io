@@ -1,19 +1,14 @@
 ---
 layout: page
-title: Sobre mim
+title: Sobre
 description: "Meu nome é Alexsandro Silva Alves, sou Front-end Developer"
 permalink: /about/
 ---
 
-Meu nome é Alexsandro Silva Alves, 26 anos, nasci em Feira de Santana/BA e atualmente sou Frontend Developer na [eCGlobal](http://ecglobalsolutions.com), trabalho como desenvolvedor software desde 2010, graduando em Sistemas para Internet na UNIFACS.
+__Alexsandro Silva Alves__ é Programador(Web e Mobile) desde 2014 e atuar nessa área é uma das coisas que mais gosta de fazer.
 
-Além disso sou Pai, aventureiro e game developer nas horas vagas.
+No momento, está trabalhando como Front-end Developer na [eCGlobal](http://ecglobalsolutions.com/pt/) Solutions onde trabalha em projetos web para grandes marcas do mundo todo.
 
-### Contato
+Graduando em Sistemas para Internet pela UNIFACS/Salvador-BA. Já liderou uma equipe de TI e atualmente é Front-end responsável por criar e manter uma rede social para grandes empresas nacionais e internacionais.
 
- - [Github](https://github.com/{{site.github_username}})
- - [Linkedin](https://www.linkedin.com/in/{{site.linkedin_username}}/)
- - [Twitter](https://twitter.com/{{site.twitter_username}})
-
-Ou mande um email para [{{site.email}}](mailto:{{site.email}}).
-
+É pai da Malu em tempo integral. No seu tempo livre, ele é aficionado por livros, séries, escreve alguns post(atividade que vem se tornando cada vez mais prazerosa), e contribui com projetos open Sousce no GitHub.
