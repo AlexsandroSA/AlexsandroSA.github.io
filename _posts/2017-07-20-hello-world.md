@@ -19,9 +19,7 @@ Olá, tudo bem? Meu nome é [Alexsandro Silva Alves](/about/) sou Programador e 
 
 Se você tem interesse, quer aprender ou melhorar alguns desses temas citados.
 
-...Então você está no lugar certo.
-
-E ai, vamos aprender juntos?
+...Então você está no lugar certo! Vamos aprender juntos?
 
 ### Agradecimentos
 
