@@ -23,8 +23,6 @@ Se você tem interesse, quer aprender ou melhorar alguns desses temas citados.
 
 ### Agradecimentos
 
-Por último é não menos importante. 
+Por último, mas não menos importante, gostaria de agradecer a todos que me ajudaram de alguma forma, obrigado mesmo, de coração. 
 
-Gostaria de deixar aqui meu agradecimentos todos que me ajudaram de alguma forma.
-
-Muito obrigado mesmo a todos de coração! Seus lindos :kissing_heart:
+Seus lindos :kissing_heart:
