@@ -11,4 +11,6 @@ No momento, está trabalhando como Front-end Developer na [eCGlobal](http://ecgl
 
 Graduando em Sistemas para Internet pela UNIFACS/Salvador-BA. Já liderou uma equipe de TI e atualmente é Front-end responsável por criar e manter uma rede social para grandes empresas nacionais e internacionais.
 
-É pai da Malu em tempo integral. No seu tempo livre, ele é aficionado por livros, séries, escreve alguns post(atividade que vem se tornando cada vez mais prazerosa), e contribui com projetos open Sousce no GitHub.
+É pai da Malu em tempo integral. 
+
+No seu tempo livre, ele é aficionado por livros, séries, escreve alguns post - _atividade que vem se tornando cada vez mais prazerosa_, e contribui com projetos Open Source no seu [GitHub](https://github.com/{{site.github_username}}).
