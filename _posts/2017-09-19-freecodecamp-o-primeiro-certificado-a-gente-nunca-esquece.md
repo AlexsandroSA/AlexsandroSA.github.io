@@ -17,7 +17,7 @@ Livros, cursos, vídeo-aulas, eventos, meetups, recentemente incluir os cursos i
 
 Já fiz alguns desafios/cursos interativos como: [CodeAcademy](https://www.codecademy.com/pt), [CodeSchool](https://www.codeschool.com/), [Codewars](https://www.codewars.com/) e tantos outros. Até que conheci o [freeCodeCamp](https://www.freecodecamp.org/) e foi assim tirei meu primeiro certificado.
 
-### O que é freeCodeCamp: uma breve explicação
+## O que é freeCodeCamp: uma breve explicação
 
 ![freeCodeCamp](/assets/img/posts/freecodecamp.png)
 
@@ -36,7 +36,7 @@ Na certificação Full Stack você começa a contribuir com __projetos reais__, 
 
 Independente do seu nível de conhecimento, tanto os projetos quanto os desafios são divididos em categorias: iniciante, intermediário e avançado. Mesmo você um desenvolvedor novato ou experiente pode aprender.
 
-### O que você vai aprender
+## O que você vai aprender
 
 ![HTML5, CSS3, Javascript, Redis, Git e muito mais](/assets/img/posts/freecodecamp-skills.jpg "HTML5, CSS3, Javascript, Redis, Git e muito mais")
 
@@ -46,7 +46,7 @@ __Atenção__: O curso é todo em Inglês, mas não se preocupe, caso não tenha
 
 Se ainda assim você não se sentir confortável, existem grupos no gitter, slack e facebook locais que podem lhe ajudar.
 
-### O freeCodeCamp em números
+## O freeCodeCamp em números
 
 Os dados abaixo foram tirado do próprio site do freecodecamp, veja mais [aqui](https://www.freecodecamp.org/about/) (inglês)
 
