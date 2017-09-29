@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "freeCodeCamp: O primeiro certificado a gente nunca esquece"
-description: "Um curso que ajuda você a aprender a programar"
+description: "Um curso que ajuda você a aprender a programar, com um certificado de \"bônus\""
 date:   2017-09-18 12:41:00 -0300
 comments: true
 ---
@@ -9,13 +9,13 @@ comments: true
 > #### A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais.
 > [Aristóteles](https://pt.wikipedia.org/wiki/Arist%C3%B3teles)
 
-__"Como se tornar um profissional melhor?”__ essa é uma das perguntas que mais me faço e acredito que você também já se perguntou isso pelo menos uma vez, se sim... continue lendo, talvez esse post possa te ajudar!
+__"Como se tornar um profissional melhor?”__ essa é uma das perguntas que mais me faço e acredito que você também já se perguntou isso pelo menos uma vez, se sim... continue lendo.
 
 Sempre gostei desafios e sei da importância que eles carregam, o valor do aprendizado, a beleza de se testar e evoluir, com isso em mente fui em busca de mais conhecimentos.
 
 Livros, cursos, vídeo-aulas, eventos, meetups, recentemente incluir os cursos interativos nessa lista.
 
-Já fiz alguns desafios/cursos interativos como: [CodeAcademy](https://www.codecademy.com/pt), [CodeSchool](https://www.codeschool.com/), [Codewars](https://www.codewars.com/) e tantos outros. Até que conheci o [freeCodeCamp](https://www.freecodecamp.org/) e foi assim tirei meu primeiro certificado.
+[CodeAcademy](https://www.codecademy.com/pt), [CodeSchool](https://www.codeschool.com/), [Codewars](https://www.codewars.com/) são alguns exemplos, até que conheci o [freeCodeCamp](https://www.freecodecamp.org/) e foi assim tirei meu primeiro certificado.
 
 ## O que é freeCodeCamp: uma breve explicação
 
