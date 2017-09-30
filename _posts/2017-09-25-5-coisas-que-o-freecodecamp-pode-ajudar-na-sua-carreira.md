@@ -11,9 +11,9 @@ comments: true
 
 __Você já teve um sonho?__ Sonha em ser um profissional melhor, um Front-End melhor?
 
-Então sabe que não é uma tarefa fácil. É preciso muita dedicação, entrega e força de vontade para alcancar seus objetivos.
+Então sabe que não é uma tarefa fácil é preciso muita dedicação, entrega e força de vontade para alcancar seus objetivos.
 
-O freeCodeCamp pode, e vai te ajudar a alcanca-los, melhorando suas habilidades técnicas e  interpessoais - _que nesse post vou chamar de não técnicas_.
+O freeCodeCamp pode e vai te ajudar a alcanca-los, melhorando suas habilidades técnicas e  interpessoais - _que nesse post vou chamar de não técnicas_.
 
 Mas, primeiro.
 
@@ -24,7 +24,7 @@ Se você já conhece, confira as __5 coisas que o freeCodeCamp pode ajudar na su
  1. Melhore suas habilidades: Técnicas e Não Técnicas
  2. Crie seu portfólio
  3. Melhore seu Inglês
- 4. Networking(Nacional e Internacional)
+ 4. Networking: Nacional e Internacional
  5. Certificação
 
 ## 1. Melhore suas habilidades: Técnica e Não Técnica
@@ -53,15 +53,15 @@ Mas, isso não quer dizer que você está preso a elas, você é totalmente livr
 
 Eu mesmo usei [Pug](https://pugjs.org/api/getting-started.html "Site oficial do Pug"), [Stylus](http://stylus-lang.com/ "Site oficial do Stylus"), [Sass](http://sass-lang.com/ "Site oficial do Sass") em alguns [projetos](https://codepen.io/collection/DVPYMq/).
 
-### Habilidade humana
+### Habilidade Não Técnica
 
 > __Habilidade humana__, capacidade de trabalhar como membro de um grupo com eficácia, conseguindo extrair esforços cooperativos do grupo para atingir os objetivos estabelecidos. - Wikipedia
 
-Habilidades interpessoais, que aqui chamo de não técnicas, pode ajudar e muito no crescimento da carreira, chegando a ser o “ponto de virada”.
+Habilidades não técnicas, podem ajudar e muito no crescimento da carreira, podendo chegar a ser o “ponto de virada” que você precisa. Quer saber como?
 
-O freeCodeCamp te proporciona um ambiente fácil de participar, colaborar, influenciar projetos de outros participantes, tudo isso de forma muito natural e sem cobranças.
+O freeCodeCamp proporciona um ambiente que facilita e te incentiva participar, colaborar e ajudar outros participantes se desenvolver, tudo isso de forma tão natural que você se quer percebem quando vê já está envolvido.
 
-Além da ética, cordialidade, responsabilidade, comunicação, gerenciamento pessoal, autoconhecimento são outros exemplos de melhorias que o curso lhe proporciona.
+Além da ética, cordialidade, responsabilidade, comunicação, gerenciamento pessoal, autoconhecimento são outros exemplos de melhorias que o curso proporciona.
 
 ## 2. Crie seu portfólio
 
@@ -81,25 +81,24 @@ Então, ao concluir o curso - Front-End Certification - você tem __10 projetos 
 ![](/assets/img/posts/photo-3.jpg)
 Tradução: _"A paixão nos levou aqui"_
 
-O freeCodeCamp é todo em inglês.
+O freeCodeCamp é todo em inglês, e isso é ótimo!
 
-Então, pense comigo, porque não incluir o Inglês a lista de habilidades a ser melhorada? Foi exatamente isso que fiz!
+Então, porque não incluir o Inglês a lista de habilidades a ser melhorada? Foi exatamente isso que fiz!
 
-Claro que o freeCodeCamp não vai deixar você fluente, até porque a intenção do curso não é essa, mas, sem dúvidas sua escrita e leitura vão melhorar significativamente. __Basta querer!__
+Inglês deixou de ser um diferencial a muito tempo e hoje em dia é quase que requisito obrigatório em nossa profissão, seja para ler uma documentação, conversar com parceiro de equipe, pesquisar.
 
-Inglês deixou de ser um diferencial a muito tempo e hoje em dia é quase que requisito obrigatório em em nossa profissão, seja para ler uma documentação, conversar com parceiro de equipe.
+Claro que o freeCodeCamp não vai deixar você fluente, até porque a intenção do curso não é essa, mas, sem dúvidas sua escrita e leitura vão melhorar significativamente.
 
-E é isso que você pode fazer, seja pedir um feedback, nas suas pesquisas, tire duvidas, use a comunidade ao seu favor e você ficara surpreso com o resultado.
+Peça feedback's dos seus projetos, faça pesquisas em inglês, tire dúvidas, use a comunidade ao seu favor e você ficara surpreso com o resultado.
 
 ## 4. Networking: Nacional e Internacional
 
 > Quem caminha sozinho pode até chegar mais rápido, mas aquele que vai acompanhado, com certeza vai mais longe.
 > Clarice Lispector
 
+Por ser um curso online e internacional o contato com pessoas todo mundo é invevitavel e isso é maravilhoso.
 
-Por ser um curso online e internacional o contato com pessoas todo mundo é invevitavel e como dito anteriomente o Inglês é a chave, lá você vai encontrar: americanos, indianos, canadeses, brasileiro e etc.
-
-Novas culturas, novas experiências, novos aprendizados sem sair de casa, essa é uma ótima oportunidade pra você que sonha em trabalhar fora.
+Novas culturas, novas experiências, novos aprendizados sem sair de casa é uma ótima oportunidade pra quem sonha em trabalhar fora.
 
 Aqui vão algumas dicas, para tentar melhorar seu networking:
 
@@ -113,10 +112,8 @@ Aqui vão algumas dicas, para tentar melhorar seu networking:
 > Valorizam troféus, quando importante mesmo é o caminho que o vencedor fez.
 > Projota
 
-Por último e não mesmo importante a certificação, deixei por último propositalmente, pense no certificado como uma compensação por todo seu esforço e aprendizado.
+Por último e não mesmo importante a certificação, deixei por último propositalmente, apesar de importante o certificado não vale de nada sem o conhecimento, ao meu ver é apenas uma forma de compensação por todo seu esforço, dedicação e aprendizado adquirido.
 
-Não se prenda em tirar a certificação foque em aprender e tirar proveito de tudo que o curso tem a lhe proporcionar.
+__#DicaRápida__: A certificação do freeCodeCamp é aceita no Linkedin, [clique aqui](https://www.linkedin.com/help/linkedin/answer/45263/adicionar-editar-ou-remover-certificados-em-seu-perfil?lang=pt) e veja como.
 
-Não se esqueça de aproveitar ao máximo sua jornada.
-
-E então, o que você está esperando para investir em sua carreira?
+E então, o que você está esperando para investir em sua carreira? 
