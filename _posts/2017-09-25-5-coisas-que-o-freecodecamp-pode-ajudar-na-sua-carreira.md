@@ -11,9 +11,9 @@ comments: true
 
 __Você já teve um sonho?__ Sonha em ser um profissional melhor, um Front-End melhor?
 
-Então sabe que não é uma tarefa fácil é preciso muita dedicação, entrega e força de vontade para alcancar seus objetivos.
+Então sabe que não é tarefa fácil é preciso muita dedicação, entrega e força de vontade para alcancar seus objetivos.
 
-O freeCodeCamp pode e vai te ajudar a alcanca-los, melhorando suas habilidades técnicas e  interpessoais - _que nesse post vou chamar de não técnicas_.
+O freeCodeCamp pode e vai te ajudar a alcanca-los, melhorando suas habilidades técnicas e não técnicas(interpessoais).
 
 Mas, primeiro.
 
@@ -29,11 +29,11 @@ Se você já conhece, confira as __5 coisas que o freeCodeCamp pode ajudar na su
 
 ## 1. Melhore suas habilidades: Técnica e Não Técnica
 
-![](/assets/img/posts/photo-1.jpg)
+![](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-1.jpg)
 
 O aperfeiçoamento deve ser uma busca permanente de todos, seja na vida pessoal ou profissional. Você não concorda?
 
-No freecodecamp suas habilidades são treinadas, desenvolvidas e testadas por meio de desafios e projetos ao longo de todo o curso.
+No freecodecamp suas habilidades são treinadas, desenvolvidas e testadas por meio de desafios e projetos ao longo de todo o curso além dos feedbakcs com dicas e sugestões de outros membros.
 
 No freecodecamp você tem a oportunidade de melhorar tanto suas habilidades técnicas quanto as não tecnicas.
 
@@ -65,7 +65,7 @@ Além da ética, cordialidade, responsabilidade, comunicação, gerenciamento pe
 
 ## 2. Crie seu portfólio
 
-![](/assets/img/posts/photo-2.png)
+![](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-2.jpg)
 
 Um portfólio online é uma das melhores e mais poderosas ferramentas para mostrar seu trabalho, e isso não nenhuma surpresa.
 
@@ -78,8 +78,7 @@ Então, ao concluir o curso - Front-End Certification - você tem __10 projetos 
 
 ## 3. Melhore seu Inglês: Leitura e escrita
 
-![](/assets/img/posts/photo-3.jpg)
-Tradução: _"A paixão nos levou aqui"_
+![](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-3.jpg)
 
 O freeCodeCamp é todo em inglês, e isso é ótimo!
 
@@ -112,8 +111,12 @@ Aqui vão algumas dicas, para tentar melhorar seu networking:
 > Valorizam troféus, quando importante mesmo é o caminho que o vencedor fez.
 > Projota
 
-Por último e não mesmo importante a certificação, deixei por último propositalmente, apesar de importante o certificado não vale de nada sem o conhecimento, ao meu ver é apenas uma forma de compensação por todo seu esforço, dedicação e aprendizado adquirido.
+Por último e não mesmo importante a certificação, um certificado pode ser uma ótima maneira de impulsionar a carreira.
 
-__#DicaRápida__: A certificação do freeCodeCamp é aceita no Linkedin, [clique aqui](https://www.linkedin.com/help/linkedin/answer/45263/adicionar-editar-ou-remover-certificados-em-seu-perfil?lang=pt) e veja como.
+A certificação é uma forma de comprovar que os estudos foram concluídos e que conhecimentos foram adquiridos.
 
-E então, o que você está esperando para investir em sua carreira? 
+Então, invista em cursos que ampliem seu conhecimento na sua área de estudos ou até mesmo em cursos de áreas diferentes, melhore hoje, melhore amanhã, melhore sempre.
+
+Além disso é possível colocar o certificado do freeCodeCamp no Linkedin, [veja como](https://www.linkedin.com/help/linkedin/answer/45263/adicionar-editar-ou-remover-certificados-em-seu-perfil?lang=pt).
+
+O que você está esperando para investir em sua carreira?
