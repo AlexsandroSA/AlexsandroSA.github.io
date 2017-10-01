@@ -11,11 +11,11 @@ comments: true
 
 __"Como se tornar um profissional melhor?”__ essa é uma das perguntas que mais me faço e acredito que você também já se perguntou isso pelo menos uma vez, se sim... continue lendo.
 
-Sempre gostei desafios e sei da importância que eles carregam, o valor do aprendizado, a beleza de se testar e evoluir, com isso em mente fui em busca de mais conhecimentos.
+Sempre gostei desafios e sei da importância que eles carregam, o valor do aprendizado, a beleza de se testar e evoluir, com isso em mente fui em busca de mais desafios conseqüentemente mais conhecimento.
 
 Livros, cursos, vídeo-aulas, eventos, meetups, recentemente incluir os cursos interativos nessa lista.
 
-[CodeAcademy](https://www.codecademy.com/pt), [CodeSchool](https://www.codeschool.com/), [Codewars](https://www.codewars.com/) são alguns exemplos, até que conheci o [freeCodeCamp](https://www.freecodecamp.org/) e foi assim tirei meu primeiro certificado.
+[CodeAcademy](https://www.codecademy.com/pt), [CodeSchool](https://www.codeschool.com/), [Codewars](https://www.codewars.com/) são alguns exemplos, até que conheci o [freeCodeCamp](https://www.freecodecamp.org/) e foi assim tirei meu primeiro certificado o __Front End Development Certification__.
 
 ## O que é freeCodeCamp: uma breve explicação
 
@@ -45,6 +45,32 @@ Com uma didática excelente, ensino intensivo baseado na prática o processo de 
 __Atenção__: O curso é todo em Inglês, mas não se preocupe, caso não tenha fluência no idioma os desafios/projetos são auto explicativos.
 
 Se ainda assim você não se sentir confortável, existem grupos no gitter, slack e facebook locais que podem lhe ajudar.
+
+## O que você vai fazer
+
+Codar, codar e codar um pouco mais, vai fazer desafios e criar projetos que vão do básico ao avançado.
+
+Veja a [lista de desafios do curso de Front-End Certification](Front End Development Certification) e logo abaixo os projetos:
+
+ 1. [Tribute Page](https://codepen.io/AlexsandroSA/full/ONgboE): Crie uma página de tributo homenageando uma pessoa especial
+
+ 2. [Personal Portfolio Webpage](https://codepen.io/AlexsandroSA/full/qZPZEw): Crie seu portfólio, não se preocupe se você ainda não tem nada para mostrar em seu portfólio - você vai construir vários projetos ao logo do curso, dez ao todo.
+
+ 3. [Random Quote Machine](https://codepen.io/AlexsandroSA/full/BKxpKy): Crie um gerador de citações
+
+ 4. [Show the Local Weather](https://codepen.io/AlexsandroSA/full/PbwRyG/): Mostre o tempo local do visitante usando HTML5 geolocation
+
+ 5. [Wikipedia Viewer](https://codepen.io/AlexsandroSA/full/MmYPay): Crie um buscador do Wikipedia simplificado
+
+ 6. [Twitchtv JSON API](https://codepen.io/AlexsandroSA/full/vmOYXB): Crie um aplicativo que verifica quem está transmitido ao vivo no Twitch.tv
+
+ 7. [JavaScript Calculator](https://codepen.io/AlexsandroSA/full/jmjqRW): Crie uma calculadora com Javascript
+
+ 8. [Pomodoro Clock](https://codepen.io/AlexsandroSA/full/WOpNbY): Crie um pomodoro
+
+ 9. [Tic Tac Toe Game](https://codepen.io/AlexsandroSA/full/gRdJzV): Crie um jogo da velha com Javascript
+
+ 10. [Simon Game](https://codepen.io/AlexsandroSA/full/yogXwj): Crie uma replica do jogo Simon
 
 ## O freeCodeCamp em números
 
