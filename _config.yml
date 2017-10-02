@@ -16,7 +16,7 @@
 title: Alexsandro Silva Alves
 email: alexsando.s.alves@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alexsandro Silva Alves, Front-end Developer e Game developer nas horas vagas.
+  Front-end Developer e Game developer nas horas vagas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexsandro-sa.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -40,9 +40,15 @@ markdown: kramdown
 permalink: /:title/
 theme: minima
 
+# SEO
+author:
+  twitter: alexsandro_sa
+
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Compress: html minify
 compress_html:
