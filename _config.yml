@@ -18,7 +18,7 @@ email: alexsando.s.alves@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Front-end Developer e Game developer nas horas vagas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alexsandro-sa.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexsandro-sa.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social networks accounts
 github_username:  AlexsandroSA
@@ -41,8 +41,19 @@ permalink: /:title/
 theme: minima
 
 # SEO
+logo: /assets/img/brand.png
+social:
+  name: Alexsandro Silva Alves
+  links:
+    - https://twitter.com/alexsandro_sa
+    - https://www.facebook.com/alexsandro.s.alves
+    - https://www.linkedin.com/in/alexsandrosa
+    - https://plus.google.com/+AlexsandroSilvaAlves
+    - https://github.com/AlexsandroSA
 author:
   twitter: alexsandro_sa
+facebook:
+ app_id: 1826465727382348
 
 # Plugins
 plugins:
