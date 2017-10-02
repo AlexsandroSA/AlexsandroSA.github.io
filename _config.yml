@@ -41,8 +41,19 @@ permalink: /:title/
 theme: minima
 
 # SEO
+logo: /assets/img/brand.png
+social:
+  name: Alexsandro Silva Alves
+  links:
+    - https://twitter.com/alexsandro_sa
+    - https://www.facebook.com/alexsandro.s.alves
+    - https://www.linkedin.com/in/alexsandrosa
+    - https://plus.google.com/+AlexsandroSilvaAlves
+    - https://github.com/AlexsandroSA
 author:
   twitter: alexsandro_sa
+facebook:
+ app_id: 1826465727382348
 
 # Plugins
 plugins:
