@@ -50,27 +50,27 @@ Se ainda assim você não se sentir confortável, existem grupos no gitter, slac
 
 Codar, codar e codar um pouco mais, vai fazer desafios e criar projetos que vão do básico ao avançado.
 
-Veja a [lista de desafios do curso de Front-End Certification](Front End Development Certification) e logo abaixo os projetos:
+Veja a [lista de desafios do curso de Front-End Certification](https://codepen.io/collection/DVPYMq/#) e logo abaixo os projetos:
 
- 1. [Tribute Page](https://codepen.io/AlexsandroSA/full/ONgboE): Crie uma página de tributo homenageando uma pessoa especial
+ 1. [Tribute Page](https://codepen.io/AlexsandroSA/full/ONgboE): Página de tributo homenageando uma pessoa especial
 
- 2. [Personal Portfolio Webpage](https://codepen.io/AlexsandroSA/full/qZPZEw): Crie seu portfólio, não se preocupe se você ainda não tem nada para mostrar em seu portfólio - você vai construir vários projetos ao logo do curso, dez ao todo.
+ 2. [Personal Portfolio Webpage](https://codepen.io/AlexsandroSA/full/qZPZEw): Seu portfólio, não se preocupe se você ainda não tem nada para mostrar ocê vai construir vários projetos ao logo do curso, 10 para ser mais preciso.
 
- 3. [Random Quote Machine](https://codepen.io/AlexsandroSA/full/BKxpKy): Crie um gerador de citações
+ 3. [Random Quote Machine](https://codepen.io/AlexsandroSA/full/BKxpKy): Gerador de citações
 
  4. [Show the Local Weather](https://codepen.io/AlexsandroSA/full/PbwRyG/): Mostre o tempo local do visitante usando HTML5 geolocation
 
- 5. [Wikipedia Viewer](https://codepen.io/AlexsandroSA/full/MmYPay): Crie um buscador do Wikipedia simplificado
+ 5. [Wikipedia Viewer](https://codepen.io/AlexsandroSA/full/MmYPay): Buscador do Wikipedia simplificado
 
- 6. [Twitchtv JSON API](https://codepen.io/AlexsandroSA/full/vmOYXB): Crie um aplicativo que verifica quem está transmitido ao vivo no Twitch.tv
+ 6. [Twitchtv JSON API](https://codepen.io/AlexsandroSA/full/vmOYXB): Aplicativo que verifica quem está transmitido ao vivo no Twitch.tv
 
- 7. [JavaScript Calculator](https://codepen.io/AlexsandroSA/full/jmjqRW): Crie uma calculadora com Javascript
+ 7. [JavaScript Calculator](https://codepen.io/AlexsandroSA/full/jmjqRW): Calculadora com Javascript
 
- 8. [Pomodoro Clock](https://codepen.io/AlexsandroSA/full/WOpNbY): Crie um pomodoro
+ 8. [Pomodoro Clock](https://codepen.io/AlexsandroSA/full/WOpNbY): Pomodoro app
 
- 9. [Tic Tac Toe Game](https://codepen.io/AlexsandroSA/full/gRdJzV): Crie um jogo da velha com Javascript
+ 9. [Tic Tac Toe Game](https://codepen.io/AlexsandroSA/full/gRdJzV): Jogo da velha com Javascript
 
- 10. [Simon Game](https://codepen.io/AlexsandroSA/full/yogXwj): Crie uma replica do jogo Simon
+ 10. [Simon Game](https://codepen.io/AlexsandroSA/full/yogXwj): Replica do jogo Simon
 
 ## O freeCodeCamp em números
 
