@@ -7,7 +7,7 @@ comments: true
 ---
 
 > #### É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.
-> Aristóteles
+> [Aristóteles](https://pt.wikipedia.org/wiki/Arist%C3%B3teles)
 
 Já pensou em melhorar suas habilidade em Javascript? Colocar-se à prova ou revisar alguns conceitos da linguagem? Se sua resposta foi SIM!
 
