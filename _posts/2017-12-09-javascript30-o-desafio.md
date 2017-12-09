@@ -2,7 +2,7 @@
 layout: post
 title:  "Javascript30: O desafio!"
 description: "Javascript30: 30 dias, 30 projetos. Sem frameworks, sem libs, sem compiladores e sem boilerplate"
-date:   2017-07-20 12:42:20 -0300
+date:   2017-12-09 13:05:20 -0300
 comments: true
 ---
 
