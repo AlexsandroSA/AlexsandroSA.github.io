@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Javascript30: O desafio!"
+title:  "Javascript30: O desafio"
 description: "Javascript30: 30 dias, 30 projetos. Sem frameworks, sem libs, sem compiladores e sem boilerplate"
 date:   2017-12-09 13:05:20 -0300
 comments: true
@@ -13,7 +13,7 @@ Já pensou em melhorar suas habilidade em Javascript? Colocar-se à prova ou rev
 
 Então lhe apresento o Javascript30: O desafio.
 
-![](/assets/img/posts/javascript30-the-challenge.jpg)
+![Logo Javascript30](/assets/img/posts/javascript30-the-challenge.jpg)
 
 > 30 dias, 30 projetos usando apenas __vanila JS__. Sem frameworks, sem libs, sem compiladores e sem boilerplate.
 
