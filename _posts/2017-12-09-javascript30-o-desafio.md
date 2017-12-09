@@ -17,25 +17,22 @@ Então lhe apresento o Javascript30: O desafio.
 
 > 30 dias, 30 projetos usando apenas __vanila JS__. Sem frameworks, sem libs, sem compiladores e sem boilerplate.
 
-Javascript30 é um projeto criado por [Wes Bos](http://wesbos.com), Professor/Desenvolvedor Full Stack canadense, que te desafia e te ensina a criar 30 projetos, um por dia, usando o bom e velho vanila JS.
+Javascript30 é um projeto criado por [Wes Bos](http://wesbos.com), Professor/Desenvolvedor Full Stack canadense, te  ensina através de desafios a criar __30 projetos__, um por dia, usando o bom e velho vanila JS.
 
-A versão do javascript usado no desafio é ES6, ECMAScript 6, ou ES2015 o que é ótimo. 
+Todos os projetos são feitos usando apenas ES6, ECMAScript 6 ou ES2015 o que por si só já é uma ótima notícia. 
 
-Além disso você “brinca” com algumas API’s como: Canvas, LocalStore, Audio Api e tantas outras. [Veja aqui os projetos que criei](https://codepen.io/collection/AZLQEe/).
+Além do ES6 você tem a possíbilidade de “brinca” com algumas API’s como: Canvas, LocalStore, Audio Api e tantas outras. [Veja aqui os projetos que criei](https://codepen.io/collection/AZLQEe/) e confira as tecnologias usadas.
 
-A didática do curso é muito boa os projetos são bem legais o desafio é gratuito, isso mesmo, 0800, na faixa… não vai te custar nada. 
+A didática do curso é muito boa, os projetos são bem legais e o melhor por último é que o desafio é __gratuito__, isso mesmo, 0800, na faixa… não tem custo algum. Legal né? 
 
-Para fazer o desafio basta acessar o [site](https://javascript30.com) fazer o cadastro e let’s code. 
-
-__Dica:__ No youtube tem alguns vídeos caso queira experimentar
+Se você se perguntou como fazer o desafio? É muito simples. Basta acessar o [site](https://javascript30.com) fazer o cadastro ou se preferir assista os vídeos direto do [youtube](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
 
 __Atenção:__ O curso é em Inglês, mas é bem tranquilo, até pra você que assim como eu ainda não domina totalmente a idioma.
 
-Agora uma pausa...
+Agora uma pausa... para o momento jabá, eu juro que vai ser rápido! 
 
 #### Momento Jabá
 
-Criei um repositório no [github](https://github.com/AlexsandroSA/daily-programming-challenges) com alguns desafios, sugestões são super bem-vindas!!
+Tenho um repositório no [github](https://github.com/AlexsandroSA/daily-programming-challenges) com alguns desafios de programação diários, críticas e sugestões são sempre bem-vindas!!
 
-Voltando… Conhece ou já fez algum desafio parecido? E o Javascript30 conhecia ou já fez? 
-
+Voltando… disse que ia ser rápido. Já conhecia o Javascript30 ou já fez o desafio? Conhece algum site de desafio legal?
