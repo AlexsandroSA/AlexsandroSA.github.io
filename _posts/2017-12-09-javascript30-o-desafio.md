@@ -17,7 +17,7 @@ Se sua resposta foi SIM!. Então lhe apresento o Javascript30: O desafio.
 
 > 30 dias, 30 projetos usando apenas __vanila JS__. Sem frameworks, sem libs, sem compiladores e sem boilerplate.
 
-Javascript30 é um projeto criado por [Wes Bos](http://wesbos.com), Professor/Desenvolvedor Full Stack canadense, te  ensina através de desafios a criar __30 projetos__, um por dia, usando o bom e velho vanila JS.
+Javascript30 é um projeto criado por [Wes Bos](http://wesbos.com), Professor/Desenvolvedor Full Stack canadense, que te ensina através de desafios a criar __30 projetos__, um por dia, usando o bom e velho vanila JS.
 
 Todos os projetos são feitos usando apenas ES6, ECMAScript 6 ou ES2015 o que por si só já é uma ótima notícia. 
 
@@ -27,12 +27,10 @@ A didática do curso é boa, os projetos são legais e totalmente __gratuito__, 
 
 Se você se perguntou como fazer o desafio? É muito simples. Basta acessar o [site](https://javascript30.com) fazer o cadastro ou se preferir assista os vídeos direto do [youtube](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
 
-__Atenção:__ O curso é em Inglês, mas é bem tranquilo, até pra você que assim como eu ainda não domina totalmente a idioma.
+__Atenção:__ O curso é em Inglês, mas é bem tranquilo, até pra você que assim como eu ainda não domina totalmente o idioma.
 
-Agora uma pausa... para o momento jabá, eu juro que vai ser rápido! 
+Conhecia o Javascript30 ou já fez o desafio? Conhece algum site de desafio legal?
 
 #### Momento Jabá
 
-Tenho um repositório no [github](https://github.com/AlexsandroSA/daily-programming-challenges) com alguns desafios de programação diários, críticas e sugestões são sempre bem-vindas!!
-
-Voltando… disse que ia ser rápido. Já conhecia o Javascript30 ou já fez o desafio? Conhece algum site de desafio legal?
+Aproveitando a oportunidade tenho um repositório no github com alguns [desafios de programação diários](https://github.com/AlexsandroSA/daily-programming-challeng) críticas e sugestões são bem-vindas!!
