@@ -15,9 +15,9 @@ Se sua resposta foi SIM!. Então lhe apresento o Javascript30: O desafio.
 
 ![Logo Javascript30](/assets/img/posts/javascript30-the-challenge.jpg)
 
-> 30 dias, 30 projetos usando apenas __vanila JS__. Sem frameworks, sem libs, sem compiladores e sem boilerplate.
+> 30 dias, 30 projetos usando apenas __VanillaJS__. Sem frameworks, sem libs, sem compiladores e sem boilerplate.
 
-Javascript30 é um projeto criado por [Wes Bos](http://wesbos.com), Professor/Desenvolvedor Full Stack canadense, que te ensina através de desafios a criar __30 projetos__, um por dia, usando o bom e velho vanila JS.
+Javascript30 é um projeto criado por [Wes Bos](http://wesbos.com), Professor/Desenvolvedor Full Stack canadense, que te ensina através de desafios a criar __30 projetos__, um por dia, usando o bom e velho Vanilla.
 
 Todos os projetos são feitos usando apenas ES6, ECMAScript 6 ou ES2015 o que por si só já é uma ótima notícia. 
 
