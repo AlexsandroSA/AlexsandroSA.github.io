@@ -24,9 +24,6 @@ url: "https://alexsandro-sa.com.br" # the base hostname & protocol for your site
 github_username:  AlexsandroSA
 twitter_username: alexsandro_sa
 codewars_username: AlexsandroSA
-linkedin_username: alexsandrosa
-facebook_username: alexsandro.s.alves
-instagram_username: alexsandro.s.alves
 
 # Comments settings
 disqus:
@@ -46,9 +43,7 @@ social:
   name: Alexsandro Silva Alves
   links:
     - https://twitter.com/alexsandro_sa
-    - https://www.facebook.com/alexsandro.s.alves
     - https://www.linkedin.com/in/alexsandrosa
-    - https://plus.google.com/+AlexsandroSilvaAlves
     - https://github.com/AlexsandroSA
 author:
   twitter: alexsandro_sa
