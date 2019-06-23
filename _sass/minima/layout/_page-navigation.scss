@@ -1,0 +1,43 @@
+.page-nav {
+    float: right;
+    list-style: none;
+    line-height: $base-line-height * $base-font-size * 2.25;
+  
+    .page-nav-item {
+      display: inline-block;
+      margin-right: 8px;
+  
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  
+    .page-link {
+      color: $link-color;
+      line-height: $base-line-height;
+      text-transform: uppercase;
+  
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+    }
+  
+    @include media-query($on-palm) {
+      position: absolute;
+      top: $spacing-unit / 3;
+      right: $spacing-unit / 2;
+      text-align: right;
+  
+      .page-link {
+        display: block;
+        padding: 5px 10px;
+        margin-left: 20px;
+  
+        &:not(:last-child) {
+          margin-right: 0;
+        }
+  
+      }
+    }
+  }

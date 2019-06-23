@@ -5,22 +5,21 @@ title: "Alexsandro Silva Alves | Front-End Developer"
 
 <div class="home">
   {{ content }}
-  {% if site.posts.size == 0 %}
-    <h2>No post found</h2>
-  {% else %}
-
-  {% include intro.html %}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h2 class="post-title">
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  {% endif %}
+  <article class="intro">   
+    <div class="intro-content">
+      <div class="intro-text">
+        <header class="intro-header">
+          <h2 class="intro-title">Front-End</h2>
+          <h3 class="intro-subtitle">Game Developer nas horas vagas</h3>
+        </header>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et cursus nunc. Donec est tortor, hendrerit id ullamcorper in, rhoncus sed diam. Nunc pharetra finibus orci, lobortis aliquet lectus facilisis a. Sed accumsan, quam vitae fringilla finibus, felis quam condimentum ante, eu feugiat magna turpis a nibh. Nulla porttitor nisl diam, et ultricies eros iaculis vel. Morbi ut sodales eros, ac tristique urna. Nullam eu malesuada ipsum. Integer quis nisi id turpis consectetur dignissim quis nec ex.</p>
+        <p> Nullam lobortis ipsum eros, quis varius sem consequat quis. Praesent egestas luctus est eu vestibulum.</p>
+        <p>Saiba mais <a href="">sobre mim</a> ou veja meu <a href="">blog</a></p>
+      </div>
+      <figure class="intro-image">
+        <img src="https://avatars0.githubusercontent.com/u/1703378?s=400&v=4" alt="Alexsandro" title="" class="img-home">
+        <figcaption>Alexsandro Silva Alves</figcaption>
+      </figure>
+    </div>
+  </article>
 </div>
