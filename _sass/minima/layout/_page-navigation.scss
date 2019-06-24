@@ -1,0 +1,25 @@
+.page-nav {
+  float: right;
+  list-style: none;
+  line-height: $base-line-height * $base-font-size * 2.25;
+
+  .page-nav-item {
+    display: inline-block;
+    margin-right: 16px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .page-link {
+    color: $link-color;
+    line-height: $base-line-height;
+    text-transform: uppercase;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }  
+}
