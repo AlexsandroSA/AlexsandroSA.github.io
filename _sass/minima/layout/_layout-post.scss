@@ -1,0 +1,19 @@
+.post {
+
+    .post-header {
+        margin-top: 24px;
+        text-align: center;
+    }
+
+    .post-title {
+        @include relative-font-size(3);
+    }
+
+    .post-subtitle {}
+
+    .post-content {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+}
+
