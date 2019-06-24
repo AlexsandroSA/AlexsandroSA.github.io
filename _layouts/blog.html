@@ -11,14 +11,14 @@ title: "Blog | Alexsandro Silva Alves"
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      <li class="post-item">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <time class="post-meta">{{ post.date | date: date_format }}</time>
+        <time datetime="{{ post.date }}" class="post-meta">{{ post.date | date: date_format }}</time>
         <h2 class="post-title">
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
       </li>
-    {% endfor %}
+    {% endfor %}      
   </ul>
   {% endif %}
 </div>
