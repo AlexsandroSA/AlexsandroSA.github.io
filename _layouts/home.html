@@ -4,22 +4,15 @@ title: "Alexsandro Silva Alves | Front-End Developer"
 ---
 
 <div class="home">
-  {{ content }}
-  <article class="intro">   
-    <div class="intro-content">
-      <div class="intro-text">
-        <header class="intro-header">
-          <h2 class="intro-title">Front-End</h2>
-          <h3 class="intro-subtitle">Game Developer nas horas vagas</h3>
-        </header>
-        <p>Alexsandro Silva Alves é pai, desenvolvedor de software, escritor e apaixonado por tudo o que envolva Web. Trabalha com desenvolvimento web desde 2011 e sempre busca tempo para continuar aprendendo e para disseminar o conhecimento.</p>
-        <p>Já trabalhou em empresas como a <a href="https://www.saraiva.com.br/" rel="nofollow" target="_blank">Saraiva</a>, <a href="https://www.conductor.com.br/" rel="nofollow" target="_blank">Conductor</a>, <a href="http://ecglobalsolutions.com/" rel="nofollow" target="_blank">eCGlobal Solutions</a> e outras mais. Atendendo clientes como HBO, Globo, Santander, LATAM dentre outros.</p>
-        <p>Cursou Sistemas para Internet na UNIFACS - Universidade Salvador no ano de 2011.</p>
-      </div>
-      <figure class="intro-image">
-        <img src="https://avatars0.githubusercontent.com/u/1703378?s=400&v=4" alt="Alexsandro" title="" class="img-home">
-        <figcaption>Alexsandro Silva Alves</figcaption>
-      </figure>
-    </div>
-  </article>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-item">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <time datetime="{{ post.date }}" class="post-meta">{{ post.date | date: date_format }}</time>
+        <h2 class="post-title">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}      
+  </ul>
 </div>
