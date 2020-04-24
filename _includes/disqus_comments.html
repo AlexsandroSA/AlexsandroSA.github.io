@@ -1,5 +1,6 @@
 {% if page.comments != false and jekyll.environment == "production" %}
-  <div id="disqus_thread"></div>
+  <p>O que você achou deste conteúdo? Conte nos comentários.</p>
+  <footer id="disqus_thread"></footer>
   <script>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
