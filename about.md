@@ -5,8 +5,11 @@ description: "Sobre | Alexsandro Silva Alves - Desenvolvedor Front-end"
 permalink: /about/
 ---
 
-__Alexsandro__ é um Front-End Engineer apaixonado pelo que faz.
+## Olá, me chamo Alexsandro Silva Alves
+### Sou Front-End Engineer
 
-Atua na área de desenvolvimento desde 2011. Formando em Sistemas para Internet, possui conhecimento em desenvolvimento web, mobile e api's.
+Apaixonado pelo que faz e atua na área de desenvolvimento desde 2011.
 
-Atualmente trabalha com Javascript, NodeJs, React e React Native/Flutter além de estudar Hacker Ético e desenvolimento de jogos nas horas vagas. 
+Sou formando em Sistemas para Internet, pela UNIFACS, possuo conhecimento em desenvolvimento web, mobile e api's.
+
+Atualmente trabalho com Javascript, NodeJs, React e React Native/Flutter além de estudar Hacker Ético, Python, internet das coisas(IOT) e desenvolvimento de jogos. 
