@@ -3,18 +3,31 @@ layout: default
 title: "Alexsandro Silva Alves | Front-End Developer"
 ---
 
-<div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li class="post-item">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <time datetime="{{ post.date }}" class="post-meta">{{ post.date | date: date_format }}</time>
-        <h2 class="post-title">
-          <a class="post-link" href="{{ post.url | relative_url }}" title={{ post.title | escape }}>
-            {{ post.title | escape }}
-          </a>
-        </h2>
-      </li>
-    {% endfor %}      
+<section class="home">
+  <header>
+    <h2>Hey, I'm Alexsandro Silva Alves 👋🏽</h2>
+    <h3>Tech Lead | Front-End Engineer</h3>
+  </header>
+
+  <p>
+    Living in Brazil and working on
+    <a href="https://www.thoughtworks.com" target="_blank">Thoughtworks</a>
+    focused on supporting and developing new leaders, empowering teams,
+    simplifying workflows, and delivering the highest quality business value.
+  </p>
+
+  <h3>Find me elsewhere</h3>
+
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/alexsandrosa" target="_blank"
+        >Linkedin</a
+      >
+    </li>
+    <li>
+      <a href="https://github.com/AlexsandroSA" target="_blank"
+        >Github</a
+      >
+    </li>
   </ul>
-</div>
+</section>
