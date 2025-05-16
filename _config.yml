@@ -1,7 +1,8 @@
 title: Alexsandro Silva Alves
 email: alexsando.s.alves@gmail.com
 description: >
-  Front-end Developer e Game developer nas horas vagas.
+  Hey, I'm Alexsandro Silva Alves 👋🏽 Tech Lead | Staff Front-End Engineer
+
 baseurl: ""
 # url: "https://alexsandro-sa.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -20,7 +21,7 @@ google_analytics: UA-56706328-1
 # Build settings
 markdown: kramdown
 permalink: /:title/
-theme: minima
+theme: luma-jekyll
 
 # SEO
 logo: /assets/img/brand.png
@@ -48,3 +49,12 @@ compress_html:
   endings: []
 
 future: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
