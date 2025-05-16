@@ -6,7 +6,8 @@ description: >
 baseurl: ""
 # url: "https://alexsandro-sa.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
-theme: luma-jekyll
+# theme: luma-jekyll
+remote_theme: AlexsandroSA/luma-jekyll
 
 # Social networks accounts
 github_username: AlexsandroSA
@@ -23,7 +24,6 @@ google_analytics: UA-56706328-1
 # Build settings
 markdown: kramdown
 permalink: /:title/
-
 
 # SEO
 logo: /assets/img/brand.png
