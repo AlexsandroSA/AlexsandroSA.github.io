@@ -1,3 +1,117 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+// base colors
+$dark: #121212;
+$light: #E0E0E0;
+
+// theme colors
+$primary-color: #FFC107;
+$secondary-color: #FFEB3B;
+
+// body
+$body-bg: $dark;
+$body-color: $light;
+
+$text-primary: #FFFFFF;
+$text-secondary: $light;
+
+$font-size-base: 1rem;
+$font-size-large: 4rem;
+$font-size-small: 0.75rem;
+
+$font-mono:  "Lucida Console", Courier, monospace;
+$font-sans:  "Roboto", Arial, Verdana, Helvetica, sans-serif;
+$font-serif: Times, "Times New Roman", Georgia, serif;
+$font-cursive: "Pacifico", cursive;
+
+$font-family-base: $font-sans;
+
+// links
+$link-color: $text-primary;
+$link-text-decoration: $primary-color solid underline;
+$link-text-decoration-hover: $primary-color wavy underline;
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+::selection {
+    background: $primary-color;
+    color: $text-primary;
+}
+  
+::-moz-selection {
+    background: $primary-color;
+    color: $text-primary;
+}
+
+html {
+    color-scheme: dark;
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: $body-color;
+    background-color: $body-bg;
+    font-family: $font-family-base;
+    margin: 0.5rem;   
+    padding: 2rem;
+}
+
+a {
+    color: $link-color;
+    text-decoration: $link-text-decoration;
+  
+    &:hover {
+        color: initial;
+        text-decoration: $link-text-decoration-hover;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $text-primary;
+    font-weight: inherit;
+}
+
+p, ul li, ol li {
+    color: $text-secondary;
+}
+
+.page-content  {
+    width: 100%;
+    max-width: 800px;
+}
+
+.home {
+    h2 {
+        font-size: 2.25rem;
+        margin-bottom: 0;
+    }
+
+    h3 {
+        font-size: 1.25rem;
+        margin-top: 0.5rem;
+    } 
+
+    p {
+        font-size: 1.25rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        
+        li { 
+            margin-bottom: 0.5rem
+        }
+    }
+}
