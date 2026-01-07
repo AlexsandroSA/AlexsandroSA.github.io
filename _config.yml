@@ -6,6 +6,25 @@ description: >
 baseurl: ""
 # url: "https://alexsandro-sa.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
+# ============================================
+# 🌐 Language / i18n Settings
+# ============================================
+# Default language (used when page.lang is not set)
+lang: "pt-BR"
+
+# Available languages
+languages:
+  - code: "pt-BR"
+    name: "Português"
+    flag: "🇧🇷"
+    default: true
+  - code: "en"
+    name: "English"
+    flag: "🇺🇸"
+  - code: "es"
+    name: "Español"
+    flag: "🇪🇸"
+
 # theme: luma-jekyll
 remote_theme: AlexsandroSA/luma-jekyll
 

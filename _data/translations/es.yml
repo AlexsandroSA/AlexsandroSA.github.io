@@ -1,0 +1,255 @@
+# ============================================
+# 🇪🇸 Spanish
+# ============================================
+
+# Language Info
+lang_code: "es"
+lang_name: "Español"
+lang_flag: "🇪🇸"
+
+# ============================================
+# 🧭 Navigation
+# ============================================
+nav:
+  home: "Inicio"
+  about: "Acerca de"
+  blog: "Blog"
+  projects: "Proyectos"
+  contact: "Contacto"
+
+# ============================================
+# 🏠 Home Page
+# ============================================
+home:
+  greeting: "Hola, soy"
+  role: "Tech Lead | Staff Front-End Engineer"
+  description: "Viviendo en Brasil, trabajo en <a href='https://www.thoughtworks.com' target='_blank'>Thoughtworks</a> construyendo equipos de ingeniería de alto rendimiento. Mi enfoque es mentorar a nuevos líderes, optimizar flujos de trabajo complejos y entregar soluciones robustas que generen valor tangible para el negocio."
+  cta_linkedin: "LinkedIn"
+  cta_github: "GitHub"
+  cta_contact: "Contáctame"
+
+# ============================================
+# 📝 Blog / Posts
+# ============================================
+blog:
+  title: "Blog"
+  subtitle: "Artículos y tutoriales sobre desarrollo"
+  read_more: "Leer más"
+  read_time: "min de lectura"
+  published_on: "Publicado el"
+  updated_on: "Actualizado el"
+  author: "Autor"
+  share: "Compartir"
+  tags: "Etiquetas"
+  categories: "Categorías"
+  related_posts: "Posts relacionados"
+  no_posts: "No se encontraron posts."
+  all_posts: "Ver todos los posts"
+  recent_posts: "Posts recientes"
+
+# ============================================
+# 📄 Post Meta
+# ============================================
+post:
+  written_by: "Escrito por"
+  reading_time: "Tiempo de lectura"
+  minutes: "minutos"
+  share_post: "Comparte este post"
+  share_twitter: "Compartir en Twitter"
+  share_linkedin: "Compartir en LinkedIn"
+  share_facebook: "Compartir en Facebook"
+  copy_link: "Copiar enlace"
+  link_copied: "¡Enlace copiado!"
+
+# ============================================
+# 💬 Comments
+# ============================================
+comments:
+  title: "Comentarios"
+  leave_comment: "Deja un comentario"
+  loading: "Cargando comentarios..."
+
+# ============================================
+# 👤 About Page
+# ============================================
+about:
+  title: "Sobre mí"
+  subtitle: "Un poco de mi historia"
+  experience: "Experiencia"
+  skills: "Habilidades"
+  education: "Educación"
+  certifications: "Certificaciones"
+  download_cv: "Descargar CV"
+
+# ============================================
+# 📧 Contact
+# ============================================
+contact:
+  title: "Contacto"
+  subtitle: "¿Hablamos?"
+  name: "Nombre"
+  email: "Correo electrónico"
+  message: "Mensaje"
+  send: "Enviar mensaje"
+  sending: "Enviando..."
+  success: "¡Mensaje enviado exitosamente!"
+  error: "Error al enviar mensaje. Intenta de nuevo."
+  placeholder_name: "Tu nombre"
+  placeholder_email: "tu@email.com"
+  placeholder_message: "Escribe tu mensaje aquí..."
+
+# ============================================
+# 🦶 Footer
+# ============================================
+footer:
+  copyright: "Todos los derechos reservados"
+  made_with: "Hecho con"
+  in_brazil: "en Brasil"
+  built_with: "Construido con"
+  follow_me: "Sígueme"
+  social_links: "Redes sociales"
+
+# ============================================
+# 🔍 Search
+# ============================================
+search:
+  title: "Buscar"
+  placeholder: "Escribe para buscar..."
+  no_results: "No se encontraron resultados"
+  results_for: "Resultados para"
+
+# ============================================
+# 🚫 404 Page
+# ============================================
+error_404:
+  title: "Página no encontrada"
+  emoji: "🚧"
+  code: "404"
+  message: "¡Ups! Página no encontrada."
+  description: "La página que buscas no existe o ha sido movida."
+  go_home: "Ir al inicio"
+  search_site: "Buscar en el sitio"
+
+# ============================================
+# ⚠️ Error Pages
+# ============================================
+error_500:
+  title: "Error interno"
+  message: "¡Ups! Algo salió mal."
+  description: "Estamos trabajando para solucionar el problema."
+  go_home: "Ir al inicio"
+
+# ============================================
+# 📅 Dates & Time
+# ============================================
+dates:
+  months:
+    - "Enero"
+    - "Febrero"
+    - "Marzo"
+    - "Abril"
+    - "Mayo"
+    - "Junio"
+    - "Julio"
+    - "Agosto"
+    - "Septiembre"
+    - "Octubre"
+    - "Noviembre"
+    - "Diciembre"
+  months_short:
+    - "Ene"
+    - "Feb"
+    - "Mar"
+    - "Abr"
+    - "May"
+    - "Jun"
+    - "Jul"
+    - "Ago"
+    - "Sep"
+    - "Oct"
+    - "Nov"
+    - "Dic"
+  days:
+    - "Domingo"
+    - "Lunes"
+    - "Martes"
+    - "Miércoles"
+    - "Jueves"
+    - "Viernes"
+    - "Sábado"
+  days_short:
+    - "Dom"
+    - "Lun"
+    - "Mar"
+    - "Mié"
+    - "Jue"
+    - "Vie"
+    - "Sáb"
+  today: "Hoy"
+  yesterday: "Ayer"
+  ago: "atrás"
+  time_units:
+    second: "segundo"
+    seconds: "segundos"
+    minute: "minuto"
+    minutes: "minutos"
+    hour: "hora"
+    hours: "horas"
+    day: "día"
+    days: "días"
+    week: "semana"
+    weeks: "semanas"
+    month: "mes"
+    months: "meses"
+    year: "año"
+    years: "años"
+
+# ============================================
+# 🎯 Common / Misc
+# ============================================
+common:
+  loading: "Cargando..."
+  close: "Cerrar"
+  open: "Abrir"
+  menu: "Menú"
+  back: "Volver"
+  next: "Siguiente"
+  previous: "Anterior"
+  more: "Más"
+  less: "Menos"
+  show_more: "Mostrar más"
+  show_less: "Mostrar menos"
+  see_all: "Ver todo"
+  yes: "Sí"
+  no: "No"
+  or: "o"
+  and: "y"
+  by: "por"
+  at: "a las"
+  on: "el"
+  from: "de"
+  to: "a"
+
+# ============================================
+# ♿ Accessibility
+# ============================================
+a11y:
+  skip_to_content: "Saltar al contenido"
+  skip_to_nav: "Saltar a la navegación"
+  toggle_menu: "Alternar menú"
+  toggle_theme: "Alternar tema"
+  dark_mode: "Modo oscuro"
+  light_mode: "Modo claro"
+  increase_font: "Aumentar tamaño de fuente"
+  decrease_font: "Disminuir tamaño de fuente"
+  external_link: "Abre en nueva ventana"
+  new_tab: "(abre en nueva pestaña)"
+
+# ============================================
+# 🌐 Language Selector
+# ============================================
+language:
+  select: "Seleccionar idioma"
+  current: "Idioma actual"
+  switch_to: "Cambiar a"
+
