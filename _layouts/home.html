@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Alexsandro Silva Alves | Staff Front-End Engineer"
 lang: "pt-BR"
 ---
 
@@ -38,7 +37,7 @@ lang: "pt-BR"
 
   {%- assign current_lang = page.lang | default: site.lang | default: "pt-BR" -%}
   {%- assign filtered_posts = site.posts | where: "lang", current_lang -%}
-  
+
   {%- if filtered_posts.size == 0 and current_lang == "pt-BR" -%}
     {%- assign filtered_posts = site.posts | where_exp: "post", "post.lang == nil" -%}
   {%- endif -%}
@@ -175,15 +174,15 @@ lang: "pt-BR"
     align-items: flex-start;
     gap: 0.25rem;
   }
-  
+
   .post-list__date {
     font-size: 0.75rem;
   }
-  
+
   .home__social {
     flex-direction: column;
   }
-  
+
   .home__social-link {
     justify-content: center;
   }
