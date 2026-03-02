@@ -20,17 +20,15 @@ Depois de muito tempo — exatos 2.108 dias, segundo o Gemini (rs) — desde o �
 
 Aqui, a constância veio na forma de manter a qualidade e a frequência das entregas, apoiando o time de produto e a documentação técnica. As ADRs e RFCs desempenharam um papel fundamental, dando contexto sobre decisões passadas e nos fundamentando para escolhas futuras. Foi gratificante ver o boilerplate da lib web que criei dando vida a outras frentes, como a lib de geo-location e a lib-web-bridge conexão entre web e nativo.
 
-Como consultor, minha rotina é dividida entre as demandas da cliente e as da "firma". Como Lead, sou responsável por acompanhar a carreira de 5 pessoas, o que envolve mentorias, apoio na definição de metas e avaliações de desempenho.
+Como consultor, minha rotina é dividida entre as demandas da cliente e as da "firma". Como Lead, sou responsável por acompanhar a carreira de 5 pessoas, o que envolve mentorias, apoio na definição de metas e avaliações de desempenh, mas, para conseguir mentorar e escalar um time desse tamanho com qualidade, senti que eu também precisava oxigenar meu repertório técnico.
 
-Além disso, completei meu 5º ano de Thoughtworks. A impressão que tenho é que os desafios e aprendizados são sempre exponenciais. Este ano não foi diferente: tive uma atuação próxima à liderança da conta, apoiando o crescimento do time, que saltou de 17 para mais de 40 pessoas. Além de entrevistar novos talentos, realizei treinamentos para capacitar essa galera.
+Além disso, completei meu 5º ano de Thoughtworks. A impressão que tenho é que os desafios e aprendizados são sempre exponenciais. Este ano não foi diferente: tive uma atuação próxima à liderança da conta, apoiando o crescimento do time, que saltou de 17 para mais de 40 pessoas. Além de entrevistar novos talentos, realizei treinamentos para capacitar essa galera. Mas, para conseguir mentorar e escalar um time desse tamanho com qualidade, senti que eu também precisava oxigenar meu repertório técnico.
 
-Iniciei uma trilha de estudos focada em fundamentos e arquitetura avançada através do [Frontend Masters](https://frontendmasters.com/) e do [Great Frontend](https://www.greatfrontend.com/pt-BR).
-
-O objetivo aqui é sair do "automático" e aprofundar em performance, padrões de renderização e resolução de problemas complexos de interface. Em breve, pretendo compartilhar por aqui minhas primeiras impressões sobre essas plataformas e como o conteúdo tem impactado as decisões técnicas que tomo no dia a dia da consultoria.
+Relembrando outro conceito que gosto muito, o de 'Afiar o Machado' — onde a preparação é tão importante quanto a execução —, decidi que era o momento de aprofundar as bases. Foi com esse foco que iniciei uma trilha de estudos voltada a fundamentos e arquitetura avançada através do [Frontend Masters](https://frontendmasters.com/) e do  [Great Frontend](https://www.greatfrontend.com/pt-BR). O objetivo é sair do automático e garantir que, como Lead, eu continue entregando o melhor direcionamento técnico possível.
 
 Em posts futuros, pretendo detalhar mais sobre as libs, estudos e os desafios de uma pessoa consultora de tecnologia.
 
-## Vida Pessoal
+## Vida Pessoal, além das telas!
 
 Este foi o ano em que me dediquei seriamente à corrida de rua e academia (o vulgo "atleta híbrido", rs). Concluí meu grande objetivo: correr minha primeira meia maratona (21km)!
 
@@ -53,6 +51,7 @@ Mantenho o desafio pessoal de ler 12 livros por ano. Nem sempre são técnicos e
 | Correr                                                                             | Drauzio Varella                        |
 | Coisa de rico: A vida dos endinheirados brasileiros                                | Michel Alcoforado                      |
 | O Avesso da Pele                                                                   | Jeferson Tenório                       |
+| Cointeligência: A vida e o trabalho com IA                                         | Ethan Mollick                          |
 
 ## Conclusão
 
