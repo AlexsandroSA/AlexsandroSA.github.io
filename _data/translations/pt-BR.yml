@@ -23,7 +23,7 @@ nav:
 home:
   greeting: "Olá, eu sou"
   role: "Tech Lead | Staff Front-End Engineer"
-  description: "Morando no Brasil, atuo na <a href='https://www.thoughtworks.com' target='_blank'>Thoughtworks</a> construindo equipes de engenharia de alta performance. Meu foco é mentorar novas lideranças, otimizar fluxos de trabalho complexos e entregar soluções robustas que geram valor tangível para o negócio."
+  description: "Blog sobre desenvolvimento web, tecnologia, carreira e vida além das telas."
   cta_linkedin: "Linkedin"
   cta_github: "Github"
   cta_contact: "Entre em contato"
@@ -229,7 +229,7 @@ common:
   on: "em"
   from: "de"
   to: "para"
-  
+
 # ============================================
 # ♿ Accessibility
 # ============================================
