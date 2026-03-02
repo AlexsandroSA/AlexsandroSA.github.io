@@ -18,13 +18,15 @@ Depois de muito tempo — exatos 2.108 dias, segundo o Gemini (rs) — desde o �
 
 2025 foi um ano marcado por reestruturações, em especial no time de negócio da cliente. Isso mostrou e fortaleceu ainda mais a importância de nós, devs, termos contexto de negócio.
 
-Aqui, a constância veio na forma de manter a qualidade e a frequência das entregas, apoiando o time de produto e a documentação técnica. As ADRs e RFCs desempenharam um papel fundamental, dando contexto sobre decisões passadas e nos fundamentando para escolhas futuras. Foi gratificante ver o boilerplate da lib web que criei dando vida a outras frentes, como a lib de geo-location e a lib-web-bridge conexão entre web e nativo.
+Aqui, a constância veio na forma de manter a qualidade e a frequência das entregas, apoiando o time de produto/engenharia além de POCs, documentação técnica. As ADRs e RFCs desempenharam um papel fundamental, dando contexto sobre decisões passadas e nos fundamentando para escolhas futuras. Foi gratificante ver o boilerplate da lib web que criei dando vida a outras frentes, como a lib de geo-location e a lib-web-bridge conexão entre web e nativo.
 
-Como consultor, minha rotina é dividida entre as demandas da cliente e as da "firma". Como Lead, sou responsável por acompanhar a carreira de 5 pessoas, o que envolve mentorias, apoio na definição de metas e avaliações de desempenh, mas, para conseguir mentorar e escalar um time desse tamanho com qualidade, senti que eu também precisava oxigenar meu repertório técnico.
+Como consultor, minha rotina é dividida entre as demandas da cliente e as da "firma". Como Lead, sou responsável por acompanhar a carreira de 5 pessoas, o que envolve mentorias, apoio na definição de metas e avaliações de desempenho.
 
 Além disso, completei meu 5º ano de Thoughtworks. A impressão que tenho é que os desafios e aprendizados são sempre exponenciais. Este ano não foi diferente: tive uma atuação próxima à liderança da conta, apoiando o crescimento do time, que saltou de 17 para mais de 40 pessoas. Além de entrevistar novos talentos, realizei treinamentos para capacitar essa galera. Mas, para conseguir mentorar e escalar um time desse tamanho com qualidade, senti que eu também precisava oxigenar meu repertório técnico.
 
-Relembrando outro conceito que gosto muito, o de 'Afiar o Machado' — onde a preparação é tão importante quanto a execução —, decidi que era o momento de aprofundar as bases. Foi com esse foco que iniciei uma trilha de estudos voltada a fundamentos e arquitetura avançada através do [Frontend Masters](https://frontendmasters.com/) e do  [Great Frontend](https://www.greatfrontend.com/pt-BR). O objetivo é sair do automático e garantir que, como Lead, eu continue entregando o melhor direcionamento técnico possível.
+Relembrando outro conceito que gosto muito, o de 'Afiar o Machado' — onde a preparação é tão importante quanto a execução —, decidi que era o momento de aprofundar as bases. 
+
+Foi com esse foco que iniciei uma trilha de estudos voltada a fundamentos e arquitetura avançada através do [Frontend Masters](https://frontendmasters.com/) e do  [Great Frontend](https://www.greatfrontend.com/pt-BR). O objetivo é sair do automático e garantir que, como Lead, eu continue entregando o melhor direcionamento técnico possível.
 
 Em posts futuros, pretendo detalhar mais sobre as libs, estudos e os desafios de uma pessoa consultora de tecnologia.
 
@@ -32,7 +34,9 @@ Em posts futuros, pretendo detalhar mais sobre as libs, estudos e os desafios de
 
 Este foi o ano em que me dediquei seriamente à corrida de rua e academia (o vulgo "atleta híbrido", rs). Concluí meu grande objetivo: correr minha primeira meia maratona (21km)!
 
-Também fiz meu primeiro mergulho de cilindro em Morro de São Paulo, mantendo a tradição da viagem em família no início do ano — aquele tipo de viagem que é difícil de organizar, mas, quando chegamos, não queremos mais voltar. No campo cultural, o destaque foi o show de Gilberto Gil (Tempo Rei). No dia a dia, foi gratificante ver a evolução da minha esposa e filhas na natação, além da mais velha mandando bem no vôlei.
+Também fiz meu primeiro mergulho de cilindro em Morro de São Paulo, mantendo a tradição da viagem em família no início do ano — aquele tipo de viagem que é difícil de organizar, mas, quando chegamos, não queremos mais voltar. 
+
+No campo cultural, o destaque foi o show de Gilberto Gil (Tempo Rei). No dia a dia, foi gratificante ver a evolução da minha esposa e filhas na natação, além da mais velha mandando bem no vôlei.
 
 ### Leituras
 
