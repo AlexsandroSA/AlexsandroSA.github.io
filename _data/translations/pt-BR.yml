@@ -21,9 +21,9 @@ nav:
 # 🏠 Home Page
 # ============================================
 home:
-  greeting: "Olá, eu sou"
-  role: "Tech Lead | Staff Front-End Engineer"
-  description: "Blog sobre desenvolvimento web, tecnologia, carreira e vida além das telas."
+  greeting: "Olá, meu nome é"
+  role: "Tech Lead | Front-End Engineer"
+  description: "Bem-vindo ao meu blog! Aqui, compartilho experiências sobre desenvolvimento web, liderança, carreira e a vida além das telas."
   cta_linkedin: "Linkedin"
   cta_github: "Github"
   cta_contact: "Entre em contato"
@@ -252,4 +252,3 @@ language:
   select: "Selecionar idioma"
   current: "Idioma atual"
   switch_to: "Mudar para"
-
