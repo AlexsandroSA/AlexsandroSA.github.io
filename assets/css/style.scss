@@ -108,7 +108,7 @@ $breakpoint-lg: 1024px;
 
 html {
   scroll-behavior: smooth;
-  font-size: clamp(100%, 0.925rem + 0.5vw, 112.5%);
+  font-size: clamp(100%, calc(0.925rem + 0.5vw), 112.5%);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
@@ -160,7 +160,7 @@ body {
 }
 
 .page p {
-  font-size: clamp(1.0625rem, .5vw + 1rem, 1.25rem);
+  font-size: clamp(1.0625rem, calc(.5vw + 1rem), 1.25rem);
   line-height: 1.8;
 }
 
@@ -270,7 +270,7 @@ p {
   margin-bottom: $space-6;
   text-wrap: pretty;
   line-height: 1.8;
-  font-size: clamp(1.0625rem, .5vw + 1rem, 1.25rem);
+  font-size: clamp(1.0625rem, calc(.5vw + 1rem), 1.25rem);
 }
 
 strong, b {
