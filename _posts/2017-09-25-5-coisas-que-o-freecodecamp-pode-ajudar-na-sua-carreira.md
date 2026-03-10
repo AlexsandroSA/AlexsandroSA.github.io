@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "5 coisas que o freeCodeCamp pode ajudar na sua carreira"
-description: ""
+description: "Descubra como o freeCodeCamp vai além do código e ajuda você a construir um portfólio, conquistar certificações gratuitas e desenvolver as habilidades mais requisitadas pelo mercado de tecnologia."
 date:   2017-09-25 16:00:00 -0300
 comments: true
 ---
 
-> #### Sonhe grande, pois ter sonhos grandes dão o mesmo trabalho dos sonhos pequenos.
-> [Jorge Paulo Lemann](https://pt.wikipedia.org/wiki/Jorge_Paulo_Lemann)
+> Sonhe grande, pois ter sonhos grandes dão o mesmo trabalho dos sonhos pequenos. - Jorge Paulo Lemann
 
 __Você já teve um sonho?__ Sonha em ser um Front-End melhor?
 
@@ -27,7 +26,7 @@ Se você já conhece, confira as __5 coisas que o freeCodeCamp pode ajudar na su
 
 ## 1. Melhorar suas habilidades: Técnica e Não Técnica
 
-![](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-1.jpg)
+![Um jovem cansado está sentado em frente a um laptop coberto de adesivos de programação, com a mão na cabeça.](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-1.jpg)
 
 O aperfeiçoamento deve ser uma busca permanente de todos, seja na vida pessoal ou profissional. Você não concorda?
 
@@ -61,7 +60,7 @@ O freeCodeCamp proporciona um ambiente confortável que facilita e te incentiva 
 
 ## 2. Criar seu portfólio
 
-![](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-2.jpg)
+![Um MacBook Pro exibindo um site de culinária com design moderno, exemplificando como um projeto finalizado deve aparecer no portfólio de um desenvolvedor ou designer](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-2.jpg)
 
 Um portfólio online é uma das melhores e mais poderosas ferramentas para mostrar seu trabalho e isso não nenhuma surpresa. É o melhor cartão de visitas que se pode ter, seja para conseguir parcerias, clientes, emprego, etc.
 
@@ -72,7 +71,7 @@ Então, ao concluir o curso - Front-End Certification - você tem __10 projetos 
 
 ## 3. Melhorar seu Inglês: Leitura e escrita
 
-![](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-3.jpg)
+![PASSION LED US HERE" (A paixão nos trouxe aqui) escrita no chão. A frase em inglês no chão serve como um lembrete de que o idioma é a ponte que nos leva a novos lugares e oportunidades globais](/assets/img/posts/5-coisas-que-o-freecodecamp-pode-ajudar-na-sua-carreira-photo-3.jpg)
 
 O freeCodeCamp é todo em inglês, e isso é ótimo!
 

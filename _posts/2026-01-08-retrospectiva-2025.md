@@ -12,35 +12,37 @@ comments: true
 
 Olá, pessoas! como estão?
 
-Depois de muito tempo — exatos 2.108 dias, segundo o Gemini (rs) — desde o último post, muita coisa mudou. Mudei de estado, casei, tive mais uma filha... mas conto esses detalhes em outro momento. Hoje, quero fazer um resumo de como foi o meu 2025 sob dois aspectos: trabalho e vida pessoal.
+Depois de muito tempo — exatos 2.108 dias, segundo o Gemini (rs) — desde o último post, muita coisa mudou. Mudei de estado, casei, tive mais uma filha... mas conto esses detalhes em outro momento. 
+
+Hoje, quero fazer um resumo de como foi o meu 2025 sob dois aspectos: trabalho e vida pessoal.
 
 ## Trabalho
 
-2025 foi um ano marcado por reestruturações, em especial no time de negócio da cliente. Isso mostrou e fortaleceu ainda mais a importância de nós, devs, termos contexto de negócio.
+Como pessoa consultora minha atuação exige um equilíbrio constante entre as demandas da cliente e as da "firma". Como Lead, este ano tive o privilégio de acompanhar a carreira de 7 pessoas (algo que já faço a pelo menos 3 anos) seja apoiando com mentorias, auxiliando na definição de metas e realizando avaliações de desempenho. 
 
-Aqui, a constância veio na forma de manter a qualidade e a frequência das entregas, apoiando o time de produto/engenharia além de POCs, documentação técnica. As ADRs e RFCs desempenharam um papel fundamental, dando contexto sobre decisões passadas e nos fundamentando para escolhas futuras. Foi gratificante ver o boilerplate da lib web que criei dando vida a outras frentes, como a lib de geo-location e a lib-web-bridge conexão entre web e nativo.
+Esse ano em especifico completei __5 anos de Thoughtworks__ — um ciclo onde os desafios e aprendizados parecem crescer de forma exponencial.
 
-Como consultor, minha rotina é dividida entre as demandas da cliente e as da "firma". Como Lead, sou responsável por acompanhar a carreira de 5 pessoas, o que envolve mentorias, apoio na definição de metas e avaliações de desempenho.
+Na Thoughtworks, 2025 foi um ano de escala. Apoiei a liderança da conta no crescimento do time, que saltou de 17 para mais de 40 pessoas. Além de selecionar novos talentos, foquei em escala interna, treinando novos entrevistadores para manter nossa régua de qualidade.
 
-Além disso, completei meu 5º ano de Thoughtworks. A impressão que tenho é que os desafios e aprendizados são sempre exponenciais. Este ano não foi diferente: tive uma atuação próxima à liderança da conta, apoiando o crescimento do time, que saltou de 17 para mais de 40 pessoas. Além de entrevistar novos talentos, realizei treinamentos para capacitar essa galera. Mas, para conseguir mentorar e escalar um time desse tamanho com qualidade, senti que eu também precisava oxigenar meu repertório técnico.
+Na cliente, enfrentamos um cenário de reestruturações no time de negócio. Isso só comprova um sentimento que tenho da importância de nós, desenvolvedores, termos contexto de negócio. 
 
-Relembrando outro conceito que gosto muito, o de 'Afiar o Machado' — onde a preparação é tão importante quanto a execução —, decidi que era o momento de aprofundar as bases. 
+Aqui a constância foi nas entregas, mas o destaque foi o fortalecimento da cultura técnica através de POCs, ADRs e RFCs, que deram base para nossas decisões futuras, por outro lado foi gratificante ver o impacto técnico do boilerplate de uma lib web que criei, sendo usada de base para novas frentes, como as libs de geo-location e a lib-web-bridge gerando um impacto a nivel de empresa.
 
-Foi com esse foco que iniciei uma trilha de estudos voltada a fundamentos e arquitetura avançada através do [Frontend Masters](https://frontendmasters.com/) e do  [Great Frontend](https://www.greatfrontend.com/pt-BR). O objetivo é sair do automático e garantir que, como Lead, eu continue entregando o melhor direcionamento técnico possível.
+Depois de tudo isso, senti que precisava "afiar o machado". Decidi oxigenar meu repertório voltando às bases. Iniciei uma trilha intensiva de algoritmos, estruturas de dados, peformance e arquitetura via [Frontend Masters](https://frontendmasters.com/) e [Great Frontend](https://www.greatfrontend.com/pt-BR) com objetivo de sair do automático e garantir que, como Lead, meu direcionamento técnico continue sendo de alto nível.
 
-Em posts futuros, pretendo detalhar mais sobre as libs, estudos e os desafios de uma pessoa consultora de tecnologia.
+Em breve, trarei detalhes específicos sobre esses estudos e os desafios que encontrei no caminho.
 
 ## Vida Pessoal, além das telas!
 
 Este foi o ano em que me dediquei seriamente à corrida de rua e academia (o vulgo "atleta híbrido", rs). Concluí meu grande objetivo: correr minha primeira meia maratona (21km)!
 
-Também fiz meu primeiro mergulho de cilindro em Morro de São Paulo, mantendo a tradição da viagem em família no início do ano — aquele tipo de viagem que é difícil de organizar, mas, quando chegamos, não queremos mais voltar. 
+Também fiz meu primeiro mergulho de cilindro em Morro de São Paulo, mantendo a tradição da viagem em família no início do ano — aquele tipo de viagem que é difícil de organizar, mas, quando chegamos, não queremos mais voltar.
 
 No campo cultural, o destaque foi o show de Gilberto Gil (Tempo Rei). No dia a dia, foi gratificante ver a evolução da minha esposa e filhas na natação, além da mais velha mandando bem no vôlei.
 
 ### Leituras
 
-Mantenho o desafio pessoal de ler 12 livros por ano. Nem sempre são técnicos e nem sempre é exatamente um por mês, mas o foco é a meta anual. Aqui está a lista de 2025:
+Mantendo meu desafio pessoal de ler 12 livros ao ano. Entre títulos técnicos e leituras diversas, o foco é manter o hábito vivo (rs), independentemente do ritmo mensal. Aqui está o que li:
 
 | Livro                                                                              | Autor                                  |
 | ---------------------------------------------------------------------------------- | -------------------------------------- |
@@ -61,6 +63,6 @@ Mantenho o desafio pessoal de ler 12 livros por ano. Nem sempre são técnicos e
 
 Em resumo, 2025 foi um ano de consolidar. :)
 
-Seja escalando times na Thoughtworks, estruturando arquiteturas técnicas ou cruzando a linha de chegada de uma meia maratona, o aprendizado foi único: grandes resultados não vêm de saltos esporádicos, mas da disposição de estar presente e performando todos os dias.
+A lição que fica é _grandes resultados não vêm de saltos esporádicos, mas da disposição de estar presente e performando todos os dias_.
 
 Que venha 2026! Até logo pessoas.
