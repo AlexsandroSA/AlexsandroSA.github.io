@@ -6,8 +6,7 @@ date:  2020-05-23 21:11:10 -0300
 comments: true
 ---
 
-> ### O conhecimento é como um jardim: se não for cultivado, não pode ser colhido!
-> Provérbio africano
+> O conhecimento é como um jardim: se não for cultivado, não pode ser colhido! - Provérbio africano
 
 Sabemos que a leitura é fonte inesgotável de aprendizado, entretenimento e conhecimento.
 

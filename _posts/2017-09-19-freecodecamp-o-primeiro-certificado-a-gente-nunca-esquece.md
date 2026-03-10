@@ -6,8 +6,7 @@ date:   2017-09-18 12:41:00 -0300
 comments: true
 ---
 
-> #### A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais.
-> [Aristóteles](https://pt.wikipedia.org/wiki/Arist%C3%B3teles)
+> A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais - Aristóteles
 
 __"Como se tornar um profissional melhor?”__ essa é uma das perguntas que mais me faço e acredito que você também já se perguntou isso pelo menos uma vez, se sim... continue lendo.
 
